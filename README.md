@@ -30,7 +30,7 @@ También tengo experiencia en backend con **.NET**, Laravel, Express y Visual Ba
 
 ## 📫 Contacto
 
-- Email: josecabeza291203@gmail.com 
+- Email: josecabeza.me@gmail.com 
 - LinkedIn: [José Cabeza Reinoso](https://www.linkedin.com/in/jos%C3%A9-cabeza-reinoso-227337370/)  
 
 ---
